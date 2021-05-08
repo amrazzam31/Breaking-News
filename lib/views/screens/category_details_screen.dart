@@ -81,7 +81,6 @@ class CategoryDetailsScreen extends StatelessWidget {
               description,
               style: TextStyle(fontSize: 20, color: Colors.grey.shade800),
             ),
-            Text(''),
           ]),
         ),
       ),
