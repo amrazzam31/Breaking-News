@@ -1,16 +1,20 @@
-# breaking_news
+# Breaking News App
 
-A new Flutter project.
+#### This app is made by using the Flutter framework. It's a mobile app to browse News from different channels. It uses an API provided by https://newsapi.org.
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+![Breaking-News-app](https://github.com/amrazzam31/Breaking-News/blob/master/Breaking%20News%20Preview.gif)
 
-A few resources to get you started if this is your first Flutter project:
+# ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/76887699/117368406-c7ddf500-aec3-11eb-85eb-22799879863a.jpg" width="200" height="450" />
+  <img src="https://user-images.githubusercontent.com/76887699/117368458-daf0c500-aec3-11eb-8731-fe1d080c6726.jpg" width="200" height="450" /> 
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Dependencies
+. http (News API)                                                                                                                               
+. Flutter Swiper                                                                                                                              
+. intl           
